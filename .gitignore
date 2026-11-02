@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.sqlite
+.DS_Store
+*.pdf
